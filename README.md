@@ -26,8 +26,8 @@
 
 <a href=""><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" width="100" height="35"/></a><a href=""><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" width="100" height="35"/></a><a href=""><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" width="100" height="35"/></a><a href=""><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" width="100" height="35"/></a>
 
-<a href=""><img src="" width="100" height="35"/></a>
-<a href=""><img src="" width="100" height="35"/></a>
+<!---<a href=""><img src="" width="100" height="35"/></a>
+<!---a href=""><img src="" width="100" height="35"/></a>
 
 
 
