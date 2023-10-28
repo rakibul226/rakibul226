@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **jS**
 
-- 📫 How to reach me <a href="https://instagram.com/rakibulislam226" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="rakibul226" height="30" width="90" /></a>
+- 📫 How to reach me <a href="https://instagram.com/rakibulislam226" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="rakibul226" height="35" width="120" /></a>
 
 
 
