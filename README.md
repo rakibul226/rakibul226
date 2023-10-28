@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/rakibul islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rakibul islam" height="30" width="40" /></a>
 <a href="https://fb.com/rakibul islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rakibul islam" height="30" width="40" /></a>
-<a href="https://instagram.com/rakibul226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rakibul226" height="30" width="40" /></a>
+<a href="https://instagram.com/rakibul26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rakibul226" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
