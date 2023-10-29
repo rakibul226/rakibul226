@@ -1,6 +1,5 @@
-![I am GitHub Readme Generator's creator](https://github.com/rakibul226/rakibul226/blob/main/r1.JPG?raw=true)
+![I am GitHub Readme Generator's creator](https://github.com/rakibul226/rakibul226/blob/main/r3.JPG?raw=true)
 
-<h1 align="center">Hi 👋, I'm raKibuL</h1>
 <h3 align="center">A passionate mern stack developer</h3>
 
 - 🌱 I’m currently learning **React**
