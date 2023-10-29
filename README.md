@@ -3,7 +3,7 @@
 <img src="https://github.com/rakibul226/rakibul226/blob/main/r7.png?raw=true#gh-light-mode-only"width="200" style="max-width: 25%"> 
 </p>
 
-<p align="center" dir="auto"> Hi, my name is <b>Rakibul Islam</b>! I'm on an exciting journey of learning and mastering the MERN stack. With a strong foundation in HTML, CSS, and JavaScript, I'm now diving into MongoDB, Express.js, React, and Node.js to craft dynamic and feature-rich web applications. </p>
+<p align="center" dir="auto"> Hi, my name is <b>Rakibul Islam</b>! I'm on an exciting journey of learning MERN stack. With a strong foundation in HTML, CSS, and JavaScript, I'm now diving into MongoDB, Express.js, React, and Node.js to craft dynamic and feature-rich web applications. </p>
 
 
 <!---  📫 Contact me on <a href="https://wa.me/1779048226" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="rakibul226" height="35" width="120" /></a>
