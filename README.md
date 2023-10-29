@@ -1,4 +1,6 @@
+<p align="center">
 ![I am GitHub Readme Generator's creator](https://github.com/rakibul226/rakibul226/blob/main/r3.JPG?raw=true)
+</p>
 
 <h3 align="center">A passionate mern stack developer</h3>
 
