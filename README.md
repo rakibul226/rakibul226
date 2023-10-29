@@ -1,4 +1,4 @@
-![I am GitHub Readme Generator's creator](https://scontent.fdac24-3.fna.fbcdn.net/v/t39.30808-6/375131098_3192340321059927_384927317042349086_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeH5G_3YcyuFwu9JcoVkC2e4WwPhAQpGjjVbA-EBCkaONSmc51cz-K09Nxjkj0ZsDxhweSB6HPZxMk_bkltraBwA&_nc_ohc=Zw4u8HeQznkAX8AUiQk&_nc_ht=scontent.fdac24-3.fna&oh=00_AfDiKezcVvOMKmfVETz8h3mCmkq_Yvz1SDKX8_IA_xm_TQ&oe=65433802)
+![I am GitHub Readme Generator's creator](https://github.com/rakibul226/rakibul226/blob/main/r1.JPG?raw=true)
 
 <h1 align="center">Hi 👋, I'm raKibuL</h1>
 <h3 align="center">A passionate mern stack developer</h3>
