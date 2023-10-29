@@ -2,17 +2,7 @@
 ![I am GitHub Readme Generator's creator](https://github.com/rakibul226/rakibul226/blob/main/r3.JPG?raw=true)
 
 
-<h3 align="center">A passionate mern stack developer</h3>
-
-- 🌱 I’m currently learning **React**
-
-- 💬 Ask me about **jS**
-
 - 📫 Contact me on <a href="https://wa.me/1779048226" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="rakibul226" height="35" width="120" /></a>
-
-
-
-
 
 
 <h3 align="left">Connect with me:</h3>
