@@ -1,5 +1,7 @@
 <p align="center" dir="auto">
 <img src="https://github.com/rakibul226/rakibul226/blob/main/gif_3.gif?raw=true#gh-dark-mode-only"width="300" height="230" style="max-width: 50%">
+</p>
+<p align="center" dir="auto">
 <img src="https://github.com/rakibul226/rakibul226/blob/main/light-3.png?raw=true#gh-light-mode-only"width="200" style="max-width: 25%"> 
 </p>
 <br>
