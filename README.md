@@ -1,5 +1,5 @@
 <p align="center" dir="auto">
-<img src="https://github.com/rakibul226/rakibul226/blob/main/dark_1.png?raw=true#gh-dark-mode-only"width="500" style="max-width: 100%">
+<img src="https://github.com/rakibul226/rakibul226/blob/main/dark_2.png?raw=true#gh-dark-mode-only"width="200" style="max-width: 25%">
 <img src="https://github.com/rakibul226/rakibul226/blob/main/r7.png?raw=true#gh-light-mode-only"width="200" style="max-width: 25%"> 
 </p>
 
