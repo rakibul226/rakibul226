@@ -1,5 +1,8 @@
 <p align="center" dir="auto">
 <img src="https://github.com/rakibul226/rakibul226/blob/main/r6.png?raw=true#gh-dark-mode-only"width="400" style="max-width: 100%">
+<img src="https://github.com/rakibul226/rakibul226/blob/main/r7.png?raw=true#gh-light-mode-only"width="400" style="max-width: 100%">
+
+  
 </p>
 
 - 📫 Contact me on <a href="https://wa.me/1779048226" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="rakibul226" height="35" width="120" /></a>
